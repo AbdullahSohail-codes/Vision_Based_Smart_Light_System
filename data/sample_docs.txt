@@ -1,0 +1,5 @@
+LangChain is a framework for developing applications powered by large language models.
+RAG stands for Retrieval Augmented Generation.
+FAISS is used for vector similarity search.
+Ollama is a local LLM model used for text generation.
+Streamlit is a Python library used to create web apps quickly.
